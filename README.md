@@ -52,22 +52,22 @@
 
 ## 🚀 Featured AI & Data Projects
 
-🔥 Weapon vs Umbrella Detection - Computer Vision (YOLO)  
-🔥 Telco Customer Churn — Churn analysis
-🔥 Machine Learning Models — Regression, Classification & Evaluation  
-🔥 HR Analytics Dashboard — Attrition & KPI monitoring
-🔥 NLP & Deep Learning Focused On Grammar AutoCorrector
+ 🔥 Weapon vs Umbrella Detection - Computer Vision (YOLO)  
+ 🔥 Telco Customer Churn — Churn analysis    
+ 🔥 Machine Learning Models — Regression, Classification & Evaluation  
+ 🔥 HR Analytics Dashboard — Attrition & KPI monitoring  
+ 🔥 NLP & Deep Learning Focused On Grammar AutoCorrector
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fareselgohary2003&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fareselgohary2003&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Moaz-Sakrr&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moaz-Sakrr&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareselgohary2003&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moaz-Sakrr&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
