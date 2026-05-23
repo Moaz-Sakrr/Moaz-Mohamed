@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Moaz+Mohamed;Master+Kaggle+Ranked+AI+Engineer;Data+Scientist+%7C+AI+Automation+Builder;Machine+Learning+&NLP+&Deep+Learning+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Moaz+Mohamed;Expert+Kaggle+Ranked+AI+Engineer;Data+Scientist+%7C+AI+Computer+Vision;Machine+Learning+&NLP+&Deep+Learning+Enthusiast" />
 </h1>
 
 <p align="center">
